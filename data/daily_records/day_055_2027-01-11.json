@@ -1,0 +1,25 @@
+{
+    "day": 55,
+    "date": "2027-01-11",
+    "weekday": "Monday",
+    "module": "Deep Learning",
+    "topic": "CNN image classification practical",
+    "tasks": {
+        "learning": false,
+        "practical": false,
+        "github": false,
+        "revision": false
+    },
+    "completion": {
+        "Learning": false,
+        "Practical": false,
+        "Assignment": false,
+        "GitHub": false,
+        "Revision": false
+    },
+    "understood": "",
+    "doubts": "",
+    "rating": "",
+    "created_at": "2026-11-07T13:52:26.898825+05:30",
+    "updated_at": null
+}

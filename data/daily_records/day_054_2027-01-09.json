@@ -1,0 +1,25 @@
+{
+    "day": 54,
+    "date": "2027-01-09",
+    "weekday": "Saturday",
+    "module": "Deep Learning",
+    "topic": "Pooling, flattening and fully connected layers",
+    "tasks": {
+        "learning": false,
+        "practical": false,
+        "github": false,
+        "revision": false
+    },
+    "completion": {
+        "Learning": false,
+        "Practical": false,
+        "Assignment": false,
+        "GitHub": false,
+        "Revision": false
+    },
+    "understood": "",
+    "doubts": "",
+    "rating": "",
+    "created_at": "2026-11-07T13:52:26.897625+05:30",
+    "updated_at": null
+}

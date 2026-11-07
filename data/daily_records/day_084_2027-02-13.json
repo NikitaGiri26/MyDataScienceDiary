@@ -1,0 +1,25 @@
+{
+    "day": 84,
+    "date": "2027-02-13",
+    "weekday": "Saturday",
+    "module": "Hugging Face, LLMs & RAG",
+    "topic": "Using pretrained models and pipelines",
+    "tasks": {
+        "learning": false,
+        "practical": false,
+        "github": false,
+        "revision": false
+    },
+    "completion": {
+        "Learning": false,
+        "Practical": false,
+        "Assignment": false,
+        "GitHub": false,
+        "Revision": false
+    },
+    "understood": "",
+    "doubts": "",
+    "rating": "",
+    "created_at": "2026-11-07T13:52:26.936341+05:30",
+    "updated_at": null
+}

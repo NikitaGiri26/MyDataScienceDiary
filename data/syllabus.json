@@ -1,0 +1,808 @@
+{
+  "source": "Exact module and topic text extracted from the five supplied Data Science diary PDFs. Calendar dates reassigned from 9 November 2026; Sundays off.",
+  "start_date": "2026-11-09",
+  "study_pattern": "Monday-Saturday; Sunday off",
+  "day_count": 100,
+  "days": [
+    {
+      "day": 1,
+      "date_in_original_pdf": "Monday, 16 November 2026",
+      "module": "Python Programming",
+      "topic": "Python introduction, installation and IDE setup",
+      "date": "2026-11-09",
+      "weekday": "Monday"
+    },
+    {
+      "day": 2,
+      "date_in_original_pdf": "Tuesday, 17 November 2026",
+      "module": "Python Programming",
+      "topic": "Variables, data types and type conversion",
+      "date": "2026-11-10",
+      "weekday": "Tuesday"
+    },
+    {
+      "day": 3,
+      "date_in_original_pdf": "Wednesday, 18 November 2026",
+      "module": "Python Programming",
+      "topic": "Operators and expressions",
+      "date": "2026-11-11",
+      "weekday": "Wednesday"
+    },
+    {
+      "day": 4,
+      "date_in_original_pdf": "Thursday, 19 November 2026",
+      "module": "Python Programming",
+      "topic": "Conditional statements: if, elif, else",
+      "date": "2026-11-12",
+      "weekday": "Thursday"
+    },
+    {
+      "day": 5,
+      "date_in_original_pdf": "Friday, 20 November 2026",
+      "module": "Python Programming",
+      "topic": "Loops: for, while, break and continue",
+      "date": "2026-11-13",
+      "weekday": "Friday"
+    },
+    {
+      "day": 6,
+      "date_in_original_pdf": "Saturday, 21 November 2026",
+      "module": "Python Programming",
+      "topic": "Strings and string methods",
+      "date": "2026-11-14",
+      "weekday": "Saturday"
+    },
+    {
+      "day": 7,
+      "date_in_original_pdf": "Monday, 23 November 2026",
+      "module": "Python Programming",
+      "topic": "Lists, tuples and sets",
+      "date": "2026-11-16",
+      "weekday": "Monday"
+    },
+    {
+      "day": 8,
+      "date_in_original_pdf": "Tuesday, 24 November 2026",
+      "module": "Python Programming",
+      "topic": "Dictionaries and their methods",
+      "date": "2026-11-17",
+      "weekday": "Tuesday"
+    },
+    {
+      "day": 9,
+      "date_in_original_pdf": "Wednesday, 25 November 2026",
+      "module": "Python Programming",
+      "topic": "Functions, arguments, return and scope",
+      "date": "2026-11-18",
+      "weekday": "Wednesday"
+    },
+    {
+      "day": 10,
+      "date_in_original_pdf": "Thursday, 26 November 2026",
+      "module": "Python Programming",
+      "topic": "Python programming problem practice",
+      "date": "2026-11-19",
+      "weekday": "Thursday"
+    },
+    {
+      "day": 11,
+      "date_in_original_pdf": "Friday, 27 November 2026",
+      "module": "Advanced Python & Automation",
+      "topic": "OOP: classes, objects and constructors",
+      "date": "2026-11-20",
+      "weekday": "Friday"
+    },
+    {
+      "day": 12,
+      "date_in_original_pdf": "Saturday, 28 November 2026",
+      "module": "Advanced Python & Automation",
+      "topic": "Inheritance, polymorphism and encapsulation",
+      "date": "2026-11-21",
+      "weekday": "Saturday"
+    },
+    {
+      "day": 13,
+      "date_in_original_pdf": "Monday, 30 November 2026",
+      "module": "Advanced Python & Automation",
+      "topic": "Exception handling",
+      "date": "2026-11-23",
+      "weekday": "Monday"
+    },
+    {
+      "day": 14,
+      "date_in_original_pdf": "Tuesday, 01 December 2026",
+      "module": "Advanced Python & Automation",
+      "topic": "File handling and working with directories",
+      "date": "2026-11-24",
+      "weekday": "Tuesday"
+    },
+    {
+      "day": 15,
+      "date_in_original_pdf": "Wednesday, 02 December 2026",
+      "module": "Advanced Python & Automation",
+      "topic": "Modules, packages and pip",
+      "date": "2026-11-25",
+      "weekday": "Wednesday"
+    },
+    {
+      "day": 16,
+      "date_in_original_pdf": "Thursday, 03 December 2026",
+      "module": "Advanced Python & Automation",
+      "topic": "Iterators, generators and decorators",
+      "date": "2026-11-26",
+      "weekday": "Thursday"
+    },
+    {
+      "day": 17,
+      "date_in_original_pdf": "Friday, 04 December 2026",
+      "module": "Advanced Python & Automation",
+      "topic": "Python automation mini-project",
+      "date": "2026-11-27",
+      "weekday": "Friday"
+    },
+    {
+      "day": 18,
+      "date_in_original_pdf": "Saturday, 05 December 2026",
+      "module": "Data Science, NumPy & Statistics",
+      "topic": "Introduction to Data Science and its lifecycle",
+      "date": "2026-11-28",
+      "weekday": "Saturday"
+    },
+    {
+      "day": 19,
+      "date_in_original_pdf": "Monday, 07 December 2026",
+      "module": "Data Science, NumPy & Statistics",
+      "topic": "NumPy arrays and array creation",
+      "date": "2026-11-30",
+      "weekday": "Monday"
+    },
+    {
+      "day": 20,
+      "date_in_original_pdf": "Tuesday, 08 December 2026",
+      "module": "Data Science, NumPy & Statistics",
+      "topic": "NumPy indexing, slicing and operations",
+      "date": "2026-12-01",
+      "weekday": "Tuesday"
+    },
+    {
+      "day": 21,
+      "date_in_original_pdf": "Wednesday, 09 December 2026",
+      "module": "Data Science, NumPy & Statistics",
+      "topic": "Pandas Series and DataFrames",
+      "date": "2026-12-02",
+      "weekday": "Wednesday"
+    },
+    {
+      "day": 22,
+      "date_in_original_pdf": "Thursday, 10 December 2026",
+      "module": "Data Science, NumPy & Statistics",
+      "topic": "Data loading, inspection and selection",
+      "date": "2026-12-03",
+      "weekday": "Thursday"
+    },
+    {
+      "day": 23,
+      "date_in_original_pdf": "Friday, 11 December 2026",
+      "module": "Data Science, NumPy & Statistics",
+      "topic": "Handling missing values and duplicates",
+      "date": "2026-12-04",
+      "weekday": "Friday"
+    },
+    {
+      "day": 24,
+      "date_in_original_pdf": "Saturday, 12 December 2026",
+      "module": "Data Science, NumPy & Statistics",
+      "topic": "Data cleaning and preprocessing",
+      "date": "2026-12-05",
+      "weekday": "Saturday"
+    },
+    {
+      "day": 25,
+      "date_in_original_pdf": "Monday, 14 December 2026",
+      "module": "Data Science, NumPy & Statistics",
+      "topic": "Matplotlib and data visualization",
+      "date": "2026-12-07",
+      "weekday": "Monday"
+    },
+    {
+      "day": 26,
+      "date_in_original_pdf": "Tuesday, 15 December 2026",
+      "module": "Data Science, NumPy & Statistics",
+      "topic": "Descriptive statistics: mean, median and mode",
+      "date": "2026-12-08",
+      "weekday": "Tuesday"
+    },
+    {
+      "day": 27,
+      "date_in_original_pdf": "Wednesday, 16 December 2026",
+      "module": "Data Science, NumPy & Statistics",
+      "topic": "Variance, standard deviation and distributions",
+      "date": "2026-12-09",
+      "weekday": "Wednesday"
+    },
+    {
+      "day": 28,
+      "date_in_original_pdf": "Thursday, 17 December 2026",
+      "module": "Machine Learning & Ensemble Learning",
+      "topic": "Introduction to Machine Learning and its types",
+      "date": "2026-12-10",
+      "weekday": "Thursday"
+    },
+    {
+      "day": 29,
+      "date_in_original_pdf": "Friday, 18 December 2026",
+      "module": "Machine Learning & Ensemble Learning",
+      "topic": "Supervised vs unsupervised learning",
+      "date": "2026-12-11",
+      "weekday": "Friday"
+    },
+    {
+      "day": 30,
+      "date_in_original_pdf": "Saturday, 19 December 2026",
+      "module": "Machine Learning & Ensemble Learning",
+      "topic": "Dataset, features, labels and train-test split",
+      "date": "2026-12-12",
+      "weekday": "Saturday"
+    },
+    {
+      "day": 31,
+      "date_in_original_pdf": "Monday, 21 December 2026",
+      "module": "Machine Learning & Ensemble Learning",
+      "topic": "Data preprocessing and feature scaling",
+      "date": "2026-12-14",
+      "weekday": "Monday"
+    },
+    {
+      "day": 32,
+      "date_in_original_pdf": "Tuesday, 22 December 2026",
+      "module": "Machine Learning & Ensemble Learning",
+      "topic": "Linear Regression",
+      "date": "2026-12-15",
+      "weekday": "Tuesday"
+    },
+    {
+      "day": 33,
+      "date_in_original_pdf": "Wednesday, 23 December 2026",
+      "module": "Machine Learning & Ensemble Learning",
+      "topic": "Logistic Regression",
+      "date": "2026-12-16",
+      "weekday": "Wednesday"
+    },
+    {
+      "day": 34,
+      "date_in_original_pdf": "Thursday, 24 December 2026",
+      "module": "Machine Learning & Ensemble Learning",
+      "topic": "K-Nearest Neighbors (KNN)",
+      "date": "2026-12-17",
+      "weekday": "Thursday"
+    },
+    {
+      "day": 35,
+      "date_in_original_pdf": "Friday, 25 December 2026",
+      "module": "Machine Learning & Ensemble Learning",
+      "topic": "Decision Tree",
+      "date": "2026-12-18",
+      "weekday": "Friday"
+    },
+    {
+      "day": 36,
+      "date_in_original_pdf": "Saturday, 26 December 2026",
+      "module": "Machine Learning & Ensemble Learning",
+      "topic": "Random Forest",
+      "date": "2026-12-19",
+      "weekday": "Saturday"
+    },
+    {
+      "day": 37,
+      "date_in_original_pdf": "Monday, 28 December 2026",
+      "module": "Machine Learning & Ensemble Learning",
+      "topic": "Naive Bayes",
+      "date": "2026-12-21",
+      "weekday": "Monday"
+    },
+    {
+      "day": 38,
+      "date_in_original_pdf": "Tuesday, 29 December 2026",
+      "module": "Machine Learning & Ensemble Learning",
+      "topic": "Support Vector Machine (SVM)",
+      "date": "2026-12-22",
+      "weekday": "Tuesday"
+    },
+    {
+      "day": 39,
+      "date_in_original_pdf": "Wednesday, 30 December 2026",
+      "module": "Machine Learning & Ensemble Learning",
+      "topic": "Model evaluation: accuracy, precision, recall, F1",
+      "date": "2026-12-23",
+      "weekday": "Wednesday"
+    },
+    {
+      "day": 40,
+      "date_in_original_pdf": "Thursday, 31 December 2026",
+      "module": "Machine Learning & Ensemble Learning",
+      "topic": "Confusion matrix and classification report",
+      "date": "2026-12-24",
+      "weekday": "Thursday"
+    },
+    {
+      "day": 41,
+      "date_in_original_pdf": "Friday, 01 January 2027",
+      "module": "Machine Learning & Ensemble Learning",
+      "topic": "Ensemble learning: Bagging and Boosting",
+      "date": "2026-12-25",
+      "weekday": "Friday"
+    },
+    {
+      "day": 42,
+      "date_in_original_pdf": "Saturday, 02 January 2027",
+      "module": "Machine Learning & Ensemble Learning",
+      "topic": "Voting, Random Forest and AdaBoost practice",
+      "date": "2026-12-26",
+      "weekday": "Saturday"
+    },
+    {
+      "day": 43,
+      "date_in_original_pdf": "Monday, 04 January 2027",
+      "module": "Deep Learning",
+      "topic": "Introduction to Deep Learning and neural networks",
+      "date": "2026-12-28",
+      "weekday": "Monday"
+    },
+    {
+      "day": 44,
+      "date_in_original_pdf": "Tuesday, 05 January 2027",
+      "module": "Deep Learning",
+      "topic": "Biological neuron vs artificial neuron",
+      "date": "2026-12-29",
+      "weekday": "Tuesday"
+    },
+    {
+      "day": 45,
+      "date_in_original_pdf": "Wednesday, 06 January 2027",
+      "module": "Deep Learning",
+      "topic": "Perceptron and weights",
+      "date": "2026-12-30",
+      "weekday": "Wednesday"
+    },
+    {
+      "day": 46,
+      "date_in_original_pdf": "Thursday, 07 January 2027",
+      "module": "Deep Learning",
+      "topic": "Activation functions",
+      "date": "2026-12-31",
+      "weekday": "Thursday"
+    },
+    {
+      "day": 47,
+      "date_in_original_pdf": "Friday, 08 January 2027",
+      "module": "Deep Learning",
+      "topic": "Forward propagation",
+      "date": "2027-01-01",
+      "weekday": "Friday"
+    },
+    {
+      "day": 48,
+      "date_in_original_pdf": "Saturday, 09 January 2027",
+      "module": "Deep Learning",
+      "topic": "Loss functions and optimization",
+      "date": "2027-01-02",
+      "weekday": "Saturday"
+    },
+    {
+      "day": 49,
+      "date_in_original_pdf": "Monday, 11 January 2027",
+      "module": "Deep Learning",
+      "topic": "Backpropagation and gradient descent",
+      "date": "2027-01-04",
+      "weekday": "Monday"
+    },
+    {
+      "day": 50,
+      "date_in_original_pdf": "Tuesday, 12 January 2027",
+      "module": "Deep Learning",
+      "topic": "ANN architecture and implementation",
+      "date": "2027-01-05",
+      "weekday": "Tuesday"
+    },
+    {
+      "day": 51,
+      "date_in_original_pdf": "Wednesday, 13 January 2027",
+      "module": "Deep Learning",
+      "topic": "TensorFlow and Keras introduction",
+      "date": "2027-01-06",
+      "weekday": "Wednesday"
+    },
+    {
+      "day": 52,
+      "date_in_original_pdf": "Thursday, 14 January 2027",
+      "module": "Deep Learning",
+      "topic": "ANN classification practical",
+      "date": "2027-01-07",
+      "weekday": "Thursday"
+    },
+    {
+      "day": 53,
+      "date_in_original_pdf": "Friday, 15 January 2027",
+      "module": "Deep Learning",
+      "topic": "CNN architecture and convolution",
+      "date": "2027-01-08",
+      "weekday": "Friday"
+    },
+    {
+      "day": 54,
+      "date_in_original_pdf": "Saturday, 16 January 2027",
+      "module": "Deep Learning",
+      "topic": "Pooling, flattening and fully connected layers",
+      "date": "2027-01-09",
+      "weekday": "Saturday"
+    },
+    {
+      "day": 55,
+      "date_in_original_pdf": "Monday, 18 January 2027",
+      "module": "Deep Learning",
+      "topic": "CNN image classification practical",
+      "date": "2027-01-11",
+      "weekday": "Monday"
+    },
+    {
+      "day": 56,
+      "date_in_original_pdf": "Tuesday, 19 January 2027",
+      "module": "Deep Learning",
+      "topic": "RNN architecture and sequence data",
+      "date": "2027-01-12",
+      "weekday": "Tuesday"
+    },
+    {
+      "day": 57,
+      "date_in_original_pdf": "Wednesday, 20 January 2027",
+      "module": "Deep Learning",
+      "topic": "LSTM and sequence modelling",
+      "date": "2027-01-13",
+      "weekday": "Wednesday"
+    },
+    {
+      "day": 58,
+      "date_in_original_pdf": "Thursday, 21 January 2027",
+      "module": "Generative AI",
+      "topic": "Introduction to Generative AI",
+      "date": "2027-01-14",
+      "weekday": "Thursday"
+    },
+    {
+      "day": 59,
+      "date_in_original_pdf": "Friday, 22 January 2027",
+      "module": "Generative AI",
+      "topic": "Traditional AI vs Generative AI",
+      "date": "2027-01-15",
+      "weekday": "Friday"
+    },
+    {
+      "day": 60,
+      "date_in_original_pdf": "Saturday, 23 January 2027",
+      "module": "Generative AI",
+      "topic": "Generative models and their applications",
+      "date": "2027-01-16",
+      "weekday": "Saturday"
+    },
+    {
+      "day": 61,
+      "date_in_original_pdf": "Monday, 25 January 2027",
+      "module": "Generative AI",
+      "topic": "Introduction to Large Language Models",
+      "date": "2027-01-18",
+      "weekday": "Monday"
+    },
+    {
+      "day": 62,
+      "date_in_original_pdf": "Tuesday, 26 January 2027",
+      "module": "Generative AI",
+      "topic": "Transformer architecture overview",
+      "date": "2027-01-19",
+      "weekday": "Tuesday"
+    },
+    {
+      "day": 63,
+      "date_in_original_pdf": "Wednesday, 27 January 2027",
+      "module": "Generative AI",
+      "topic": "Tokens, tokenization and embeddings",
+      "date": "2027-01-20",
+      "weekday": "Wednesday"
+    },
+    {
+      "day": 64,
+      "date_in_original_pdf": "Thursday, 28 January 2027",
+      "module": "Generative AI",
+      "topic": "Prompt engineering fundamentals",
+      "date": "2027-01-21",
+      "weekday": "Thursday"
+    },
+    {
+      "day": 65,
+      "date_in_original_pdf": "Friday, 29 January 2027",
+      "module": "Generative AI",
+      "topic": "Zero-shot and few-shot prompting",
+      "date": "2027-01-22",
+      "weekday": "Friday"
+    },
+    {
+      "day": 66,
+      "date_in_original_pdf": "Saturday, 30 January 2027",
+      "module": "Generative AI",
+      "topic": "System prompts and structured outputs",
+      "date": "2027-01-23",
+      "weekday": "Saturday"
+    },
+    {
+      "day": 67,
+      "date_in_original_pdf": "Monday, 01 February 2027",
+      "module": "Generative AI",
+      "topic": "LLM limitations and hallucinations",
+      "date": "2027-01-25",
+      "weekday": "Monday"
+    },
+    {
+      "day": 68,
+      "date_in_original_pdf": "Tuesday, 02 February 2027",
+      "module": "Generative AI",
+      "topic": "Using LLM APIs",
+      "date": "2027-01-26",
+      "weekday": "Tuesday"
+    },
+    {
+      "day": 69,
+      "date_in_original_pdf": "Wednesday, 03 February 2027",
+      "module": "Generative AI",
+      "topic": "Building a simple GenAI application",
+      "date": "2027-01-27",
+      "weekday": "Wednesday"
+    },
+    {
+      "day": 70,
+      "date_in_original_pdf": "Thursday, 04 February 2027",
+      "module": "Generative AI",
+      "topic": "Introduction to responsible AI",
+      "date": "2027-01-28",
+      "weekday": "Thursday"
+    },
+    {
+      "day": 71,
+      "date_in_original_pdf": "Friday, 05 February 2027",
+      "module": "Generative AI",
+      "topic": "Generative AI practical exercises",
+      "date": "2027-01-29",
+      "weekday": "Friday"
+    },
+    {
+      "day": 72,
+      "date_in_original_pdf": "Saturday, 06 February 2027",
+      "module": "Generative AI",
+      "topic": "Mini-project: AI-powered application",
+      "date": "2027-01-30",
+      "weekday": "Saturday"
+    },
+    {
+      "day": 73,
+      "date_in_original_pdf": "Monday, 08 February 2027",
+      "module": "NLP & Transformers",
+      "topic": "Introduction to Natural Language Processing",
+      "date": "2027-02-01",
+      "weekday": "Monday"
+    },
+    {
+      "day": 74,
+      "date_in_original_pdf": "Tuesday, 09 February 2027",
+      "module": "NLP & Transformers",
+      "topic": "Text preprocessing and normalization",
+      "date": "2027-02-02",
+      "weekday": "Tuesday"
+    },
+    {
+      "day": 75,
+      "date_in_original_pdf": "Wednesday, 10 February 2027",
+      "module": "NLP & Transformers",
+      "topic": "Tokenization and stop-word removal",
+      "date": "2027-02-03",
+      "weekday": "Wednesday"
+    },
+    {
+      "day": 76,
+      "date_in_original_pdf": "Thursday, 11 February 2027",
+      "module": "NLP & Transformers",
+      "topic": "Stemming and lemmatization",
+      "date": "2027-02-04",
+      "weekday": "Thursday"
+    },
+    {
+      "day": 77,
+      "date_in_original_pdf": "Friday, 12 February 2027",
+      "module": "NLP & Transformers",
+      "topic": "Bag of Words and TF-IDF",
+      "date": "2027-02-05",
+      "weekday": "Friday"
+    },
+    {
+      "day": 78,
+      "date_in_original_pdf": "Saturday, 13 February 2027",
+      "module": "NLP & Transformers",
+      "topic": "Word embeddings",
+      "date": "2027-02-06",
+      "weekday": "Saturday"
+    },
+    {
+      "day": 79,
+      "date_in_original_pdf": "Monday, 15 February 2027",
+      "module": "NLP & Transformers",
+      "topic": "N-grams and text representation",
+      "date": "2027-02-08",
+      "weekday": "Monday"
+    },
+    {
+      "day": 80,
+      "date_in_original_pdf": "Tuesday, 16 February 2027",
+      "module": "NLP & Transformers",
+      "topic": "Transformer architecture in detail",
+      "date": "2027-02-09",
+      "weekday": "Tuesday"
+    },
+    {
+      "day": 81,
+      "date_in_original_pdf": "Wednesday, 17 February 2027",
+      "module": "NLP & Transformers",
+      "topic": "Attention and self-attention concepts",
+      "date": "2027-02-10",
+      "weekday": "Wednesday"
+    },
+    {
+      "day": 82,
+      "date_in_original_pdf": "Thursday, 18 February 2027",
+      "module": "NLP & Transformers",
+      "topic": "BERT architecture and use cases",
+      "date": "2027-02-11",
+      "weekday": "Thursday"
+    },
+    {
+      "day": 83,
+      "date_in_original_pdf": "Friday, 19 February 2027",
+      "module": "Hugging Face, LLMs & RAG",
+      "topic": "Hugging Face ecosystem introduction",
+      "date": "2027-02-12",
+      "weekday": "Friday"
+    },
+    {
+      "day": 84,
+      "date_in_original_pdf": "Saturday, 20 February 2027",
+      "module": "Hugging Face, LLMs & RAG",
+      "topic": "Using pretrained models and pipelines",
+      "date": "2027-02-13",
+      "weekday": "Saturday"
+    },
+    {
+      "day": 85,
+      "date_in_original_pdf": "Monday, 22 February 2027",
+      "module": "Hugging Face, LLMs & RAG",
+      "topic": "Transformers library practical",
+      "date": "2027-02-15",
+      "weekday": "Monday"
+    },
+    {
+      "day": 86,
+      "date_in_original_pdf": "Tuesday, 23 February 2027",
+      "module": "Hugging Face, LLMs & RAG",
+      "topic": "Introduction to Ollama and local LLMs",
+      "date": "2027-02-16",
+      "weekday": "Tuesday"
+    },
+    {
+      "day": 87,
+      "date_in_original_pdf": "Wednesday, 24 February 2027",
+      "module": "Hugging Face, LLMs & RAG",
+      "topic": "Llama models and local inference",
+      "date": "2027-02-17",
+      "weekday": "Wednesday"
+    },
+    {
+      "day": 88,
+      "date_in_original_pdf": "Thursday, 25 February 2027",
+      "module": "Hugging Face, LLMs & RAG",
+      "topic": "Introduction to vector databases",
+      "date": "2027-02-18",
+      "weekday": "Thursday"
+    },
+    {
+      "day": 89,
+      "date_in_original_pdf": "Friday, 26 February 2027",
+      "module": "Hugging Face, LLMs & RAG",
+      "topic": "Embeddings and semantic search",
+      "date": "2027-02-19",
+      "weekday": "Friday"
+    },
+    {
+      "day": 90,
+      "date_in_original_pdf": "Saturday, 27 February 2027",
+      "module": "Hugging Face, LLMs & RAG",
+      "topic": "Retrieval-Augmented Generation (RAG)",
+      "date": "2027-02-20",
+      "weekday": "Saturday"
+    },
+    {
+      "day": 91,
+      "date_in_original_pdf": "Monday, 01 March 2027",
+      "module": "Projects & Portfolio",
+      "topic": "Plan and organize GitHub project repositories",
+      "date": "2027-02-22",
+      "weekday": "Monday"
+    },
+    {
+      "day": 92,
+      "date_in_original_pdf": "Tuesday, 02 March 2027",
+      "module": "Projects & Portfolio",
+      "topic": "Python automation project development",
+      "date": "2027-02-23",
+      "weekday": "Tuesday"
+    },
+    {
+      "day": 93,
+      "date_in_original_pdf": "Wednesday, 03 March 2027",
+      "module": "Projects & Portfolio",
+      "topic": "Data analysis project development",
+      "date": "2027-02-24",
+      "weekday": "Wednesday"
+    },
+    {
+      "day": 94,
+      "date_in_original_pdf": "Thursday, 04 March 2027",
+      "module": "Projects & Portfolio",
+      "topic": "Machine Learning project development",
+      "date": "2027-02-25",
+      "weekday": "Thursday"
+    },
+    {
+      "day": 95,
+      "date_in_original_pdf": "Friday, 05 March 2027",
+      "module": "Projects & Portfolio",
+      "topic": "Ensemble learning project development",
+      "date": "2027-02-26",
+      "weekday": "Friday"
+    },
+    {
+      "day": 96,
+      "date_in_original_pdf": "Saturday, 06 March 2027",
+      "module": "Projects & Portfolio",
+      "topic": "Deep Learning project development",
+      "date": "2027-02-27",
+      "weekday": "Saturday"
+    },
+    {
+      "day": 97,
+      "date_in_original_pdf": "Monday, 08 March 2027",
+      "module": "Projects & Portfolio",
+      "topic": "GenAI application development",
+      "date": "2027-03-01",
+      "weekday": "Monday"
+    },
+    {
+      "day": 98,
+      "date_in_original_pdf": "Tuesday, 09 March 2027",
+      "module": "Projects & Portfolio",
+      "topic": "RAG chatbot development",
+      "date": "2027-03-02",
+      "weekday": "Tuesday"
+    },
+    {
+      "day": 99,
+      "date_in_original_pdf": "Wednesday, 10 March 2027",
+      "module": "Projects & Portfolio",
+      "topic": "Testing, documentation and README files",
+      "date": "2027-03-03",
+      "weekday": "Wednesday"
+    },
+    {
+      "day": 100,
+      "date_in_original_pdf": "Thursday, 11 March 2027",
+      "module": "Projects & Portfolio",
+      "topic": "Final portfolio review and interview preparation",
+      "date": "2027-03-04",
+      "weekday": "Thursday"
+    }
+  ]
+}

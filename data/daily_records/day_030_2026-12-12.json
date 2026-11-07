@@ -1,0 +1,25 @@
+{
+    "day": 30,
+    "date": "2026-12-12",
+    "weekday": "Saturday",
+    "module": "Machine Learning & Ensemble Learning",
+    "topic": "Dataset, features, labels and train-test split",
+    "tasks": {
+        "learning": false,
+        "practical": false,
+        "github": false,
+        "revision": false
+    },
+    "completion": {
+        "Learning": false,
+        "Practical": false,
+        "Assignment": false,
+        "GitHub": false,
+        "Revision": false
+    },
+    "understood": "",
+    "doubts": "",
+    "rating": "",
+    "created_at": "2026-11-07T13:52:26.863196+05:30",
+    "updated_at": null
+}
